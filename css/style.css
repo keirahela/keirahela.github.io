@@ -175,7 +175,7 @@ ul.social-icons {
     background-color: #8a2f94;
 }
 
-.fa-twitter {
+.fa-youtube {
     padding:10px 12px;
     -o-transition:.5s;
     -ms-transition:.5s;
@@ -184,7 +184,7 @@ ul.social-icons {
     transition: .5s;
     background-color: #322f30;
 }
-.fa-twitter:hover {
+.fa-youtube:hover {
     background-color: #00aced;
 }
 
@@ -212,17 +212,4 @@ ul.social-icons {
 }
 .fa-reddit-alien:hover {
     background-color: #e64a41;
-}
-
-.fa-youtube {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
-}
-.fa-youtube:hover {
-    background-color: #ff0000;
 }
